@@ -1,4 +1,4 @@
-contract Greeter  {
+contract Badar  {
     string private greeting;
 
     constructor(string memory _greeting) {
